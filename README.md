@@ -1,5 +1,5 @@
 Project Name : Hello Rider
-Project link:https://cocky-khorana-fc9deb.netlify.app/destination/2002
+
 Project Work
 fakedata use
 Bootstrap use
